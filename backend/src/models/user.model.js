@@ -1,4 +1,3 @@
-console.log("==> Debug: user.model.js is running");
 import mongoose, { Schema } from "mongoose";
 
 const userSchema = new Schema({
